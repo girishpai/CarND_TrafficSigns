@@ -16,6 +16,10 @@ The lab enviroment can be created with CarND Term1 Starter Kit. Click [here](htt
 
 The [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset) used in this project is automatically downloaded in the Juputer Notebook. 
 
+### Run 
+
+Open the Jupyter notebook Traffic_Sign_Classifier.ipynb and run. This notebook is self-contained. Please note that the training time might be a lot if run on a CPU. 
+
 
 
 
