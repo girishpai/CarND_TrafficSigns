@@ -3,14 +3,16 @@
 
 Overview
 ---
-In this project,  I created a deep model in Tensorflow using Convolutional Neural Networks to classify traffic signs. The model was  trained and validated using the [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset). After the model was trained, it was tried out on images of German traffic signs found on the web. 
+![Stop Sign](img1_readme.jpg)
+
+Traffic signs recognition is needed in autonomous vehicles to drive safely. In this project,  I created a deep model in Tensorflow using Convolutional Neural Networks to classify traffic signs. The model was  trained and validated using the [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset). After the model was trained, it was tried out on images of German traffic signs found on the web. 
 
 ### Dependencies
-This lab requires:
+This project requires:
 
 * [CarND Term1 Starter Kit](https://github.com/udacity/CarND-Term1-Starter-Kit)
 
-The lab enviroment can be created with CarND Term1 Starter Kit. Click [here](https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md) for the details.
+The enviroment can be created with CarND Term1 Starter Kit. Click [here](https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md) for the details.
 
 ### Dataset
 
